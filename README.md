@@ -12,7 +12,7 @@ Kitapta, büyük dil modelleriyle etkili biçimde nasıl iletişim kurulacağı,
 Bu çeviri ve yaygınlaştırma çalışmaları, **Konya Selçuklu Mesleki ve Teknik Anadolu Lisesi** bünyesindeki **GençTek** ekibi tarafından gönüllü olarak gerçekleştirilmiştir.
 
 ## 🔗 İçerikler  
-- `İstem Müdensliği.pdf` – Kitabın Türkçe çevirisi  
+- `İstem Müdendisliği.pdf` – Kitabın Türkçe çevirisi  
 - `Prompt Engineering.pdf` – İngilizce orijinal sürüm (Google yayını)  
 - Ek açıklamalar ve destekleyici materyaller (eklenecek)
 
