@@ -13,7 +13,7 @@ Bu çeviri ve yaygınlaştırma çalışmaları, **Konya Selçuklu Mesleki ve Te
 
 ## 🔗 İçerikler  
 - `İstem Müdendisliği.pdf` – Kitabın Türkçe çevirisi  
-- `Prompt Engineering.pdf` – İngilizce orijinal sürüm (Google yayını)  
+- `22365_3_Prompt Engineering_v7 (1).pdf` – İngilizce orijinal sürüm (Google yayını)  
 - Ek açıklamalar ve destekleyici materyaller (eklenecek)
 
 ## 🚀 Hedef Kitle  
