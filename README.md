@@ -9,7 +9,7 @@ Bu depo, Google tarafından yayımlanan **Prompt Engineering – Yapay Zekayı E
 Kitapta, büyük dil modelleriyle etkili biçimde nasıl iletişim kurulacağı, prompt yazma teknikleri, yapılandırma ayarları ve en iyi uygulamalar detaylı şekilde ele alınmıştır.
 
 ## 👥 Kimler Tarafından Hazırlandı?  
-Bu çeviri ve yaygınlaştırma çalışmaları, **Konya Selçuklu Mesleki ve Teknik Anadolu Lisesi** bünyesindeki **GençTek** ekibi tarafından gönüllü olarak gerçekleştirilmiştir.
+Bu çeviri ve yaygınlaştırma çalışmaları, **Konya Selçuklu Mesleki ve Teknik Anadolu Lisesi** bünyesindeki **GençTek** ekibi ve **SEUP** öğrencileri tarafından gönüllü olarak gerçekleştirilmiştir.
 
 ## 🔗 İçerikler  
 - `İstem Müdendisliği.pdf` – Kitabın Türkçe çevirisi  
