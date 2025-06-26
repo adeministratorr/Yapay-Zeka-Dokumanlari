@@ -27,8 +27,9 @@ Kitap içerikleri, akran öğrenme modeliyle kullanılmak üzere gruplarda tart�
 ## 🔖 Katkı ve İletişim  
 Katkı sağlamak isterseniz issue veya pull request oluşturabilirsiniz.  
 Her türlü öneri, düzeltme ve katkı için teşekkür ederiz!
-**GençTek Web Sitesi: https://genctek.eba.gov.tr
-**Selçuklu MTAL Web Sitesi: https://seltem.meb.k12.tr
+
+**GençTek Web Sitesi:** https://genctek.eba.gov.tr
+**Selçuklu MTAL Web Sitesi:** https://seltem.meb.k12.tr
 
 ---
 
